@@ -1,2 +1,3 @@
-# hello--world
-trying github
+Hi I'm Diane
+
+typing typing typing =]]
